@@ -2,6 +2,10 @@ A-Star demonstration
 ====================
 This program is aimed to show how A-Star algorithm works in practice and its all written in Java. 
 
+Start
+=====
+Download the A-StarTest.jar and run it.
+
 Requirements
 ============
 Java 1.5 or above to run.
