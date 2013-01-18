@@ -8,14 +8,14 @@ Control
 =======
 
 Simply press space on your keyboard for more directions:
-> left mouse for placing block.
-> right mouse for removing block.
-> 1 for start point.
-> 2 for goal point.
-> 3 for obstacle blocks.
-> R for reset the map.
-> P toggle displaying the path.
-> enter for starting path-finding.
+* left mouse for placing block.
+* right mouse for removing block.
+* 1 for start point.
+* 2 for goal point.
+* 3 for obstacle blocks.
+* R for reset the map.
+* P toggle displaying the path.
+* enter for starting path-finding.
 
 Known Issues
 ============
