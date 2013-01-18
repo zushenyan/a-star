@@ -30,4 +30,4 @@ and I am too lazy to fix it. ^_^
 
 Author
 ======
-Programmed by andrew yan(zushenyan) on 2009.
+Programmed by andrew yan(zushenyan) in 2009.
