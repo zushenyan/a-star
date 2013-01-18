@@ -21,3 +21,7 @@ Known Issues
 ============
 
 On Mac you can drag cursor to draw blocks, but on Windows sorry you can't, due to the difference of implementing the mouse draging method. :(
+
+Author
+======
+Programmed by andrew yan(zushenyan) on 2009.
