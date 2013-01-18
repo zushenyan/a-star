@@ -1,12 +1,13 @@
 A-Star demonstration
 ====================
-
 This program is aimed to show how A-Star algorithm works in practice and its all written in Java. 
-It may required Java 1.5 above to run.
+
+Requirements
+============
+Java 1.5 or above to run.
 
 Control
 =======
-
 Simply press space on your keyboard for more directions:
 * left mouse for placing block.
 * right mouse for removing block.
@@ -19,8 +20,9 @@ Simply press space on your keyboard for more directions:
 
 Known Issues
 ============
-
-On Mac you can drag cursor to draw blocks, but on Windows sorry you can't, due to the difference of implementing the mouse draging method. :(
+On Mac you can drag the cursor to draw blocks, but on Windows sorry you can't :( 
+Due to the difference of implementing mouse draging method on different platform,
+and I am too lazy to fix it. ^_^
 
 Author
 ======
