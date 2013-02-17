@@ -1,6 +1,10 @@
 A-Star demonstration
 ====================
-This program is aimed to show how A-Star algorithm works in practice and its all written in Java. 
+This program is aimed to show how A-Star algorithm works in practice and its all written in Java.
+
+<div align="center">
+  <img src="http://farm4.staticflickr.com/3493/3774420903_245676ca8a.jpg" alt="a-star"/>
+</div>
 
 Start
 =====
